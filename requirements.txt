@@ -17,3 +17,4 @@ pytorch-fid
 fire
 retry
 scikit-learn
+typing_extensions
